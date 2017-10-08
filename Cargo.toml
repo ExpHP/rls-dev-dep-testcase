@@ -1,0 +1,9 @@
+[package]
+name = "dev-deps"
+version = "0.1.0"
+authors = ["Michael Lamparski <diagonaldevice@gmail.com>"]
+
+[dependencies]
+
+[dev-dependencies]
+hello = "1"
