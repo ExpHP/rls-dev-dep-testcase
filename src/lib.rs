@@ -1,10 +1,10 @@
 #[cfg(test)]
 extern crate hello;
 
-f
+pub fn min() {}
 
 #[cfg(test)]
 mod tests {
     #[test]
-    fn it_works() { ::hello::worl(); }
+    fn it_works() { ::hello::world(); }
 }
